@@ -1,0 +1,10 @@
+.result1 {
+	/*display: inline-block;*/
+	border:1px solid black;
+	height: 300px;
+	width: 200px;
+	font-size: 12px;
+	font-family: cursive;
+}
+
+
